@@ -1,0 +1,10 @@
+Uuid: a00a906943de49159092e329cc4f95f4
+ExtensionType: 2
+Name: Google Hack
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author:  James Lester
+ShortDescription: Lets you run Google Hacking queries and add results to Burp's site map.
+EntryPoint: GoogleHack.py
